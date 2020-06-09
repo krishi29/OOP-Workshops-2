@@ -22,69 +22,68 @@ Success! Each train is in non empty state
 |> T4: Display Valid Objects
 ----------------------------------------
 ***Train Summary***
-    Name: Birthday Train
-      ID: 1
+Name: Birthday Train
+ID: 1
 No cargo on this train.
 ***Train Summary***
-    Name: Choo Choo Train
-      ID: 2
+Name: Choo Choo Train
+ID: 2
 No cargo on this train.
 ***Train Summary***
-    Name: Hype Train
-      ID: 3
+Name: Hype Train
+ID: 3
 No cargo on this train.
 
 ----------------------------------------
 |> T5: Load Cargo onto a Train
 ----------------------------------------
 ***Train Summary***
-    Name: Birthday Train
-      ID: 1
-   Cargo: Boxes
-  Weight: 55.55
+Name: Birthday Train
+ID: 1
+Cargo: Boxes
+Weight: 55.55
 ***Train Summary***
-    Name: Choo Choo Train
-      ID: 2
-   Cargo: Flowers
-  Weight: 66.67
+Name: Choo Choo Train
+ID: 2
+Cargo: Flowers
+Weight: 66.666
 ***Train Summary***
-    Name: Hype Train
-      ID: 3
-   Cargo: Ore
-  Weight: 77.78
+Name: Hype Train
+ID: 3
+Cargo: Ore
+Weight: 77.7777
 
 ----------------------------------------
 |> T5: Load Cargo onto a Train
 ----------------------------------------
 ***Train Summary***
-    Name: Birthday Train
-      ID: 1
-   Cargo: Boxes
-  Weight: 55.55
+Name: Birthday Train
+ID: 1
+Cargo: Boxes
+Weight: 55.55
 ***Train Summary***
-    Name: Choo Choo Train
-      ID: 2
-   Cargo: Flowers
-  Weight: 66.67
+Name: Choo Choo Train
+ID: 2
+Cargo: Flowers
+Weight: 66.666
 ***Train Summary***
-    Name: Hype Train
-      ID: 3
-   Cargo: Ore
-  Weight: 77.78
+Name: Hype Train
+ID: 3
+Cargo: Ore
+Weight: 77.7777
 
 ----------------------------------------
 |> T6: Unload Cargo onto a Train
 ----------------------------------------
 ***Train Summary***
-    Name: Birthday Train
-      ID: 1
+Name: Birthday Train
+ID: 1
 No cargo on this train.
 ***Train Summary***
-    Name: Choo Choo Train
-      ID: 2
+Name: Choo Choo Train
+ID: 2
 No cargo on this train.
 ***Train Summary***
-    Name: Hype Train
-      ID: 3
+Name: Hype Train
+ID: 3
 No cargo on this train.
-
